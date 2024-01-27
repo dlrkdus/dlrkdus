@@ -14,3 +14,6 @@
 |**IDE**|<img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=VisualStudioCode&logoColor=white"> <img src="https://img.shields.io/badge/intellijidea-000000?style=for-the-badge&logo=intellijidea&logoColor=white"> <img src="https://img.shields.io/badge/eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white"> <img src="https://img.shields.io/badge/dbeaver-382923?style=for-the-badge&logo=dbeaver&logoColor=white">|
 
   
+[![Dlrkdus's GitHub stats](https://github-readme-stats.vercel.app/api?username=dlrkdus)](https://github.com/dlrkdus/github-readme-stats)
+
+
